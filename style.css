@@ -1,8 +1,37 @@
-p{color: #d3830b;}
-title{color: #000;}
-h1{color: #36a2aa;}
-h2{color: #000;}
-::backdrop{color: #a6d8fa;}
-p{font-family: 'Courier New', Courier, monospace;}
-h1{font-family: Georgia, 'Times New Roman', Times, serif;}
-h2{font-family: Georgia, 'Times New Roman', Times, serif;}
+p{
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: #aa6805;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: #36a2aa;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: #aa6805;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4{
+    color: #36a2aa;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    color:#aa6805;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: #36a2aa;
+    border: solid
+}
