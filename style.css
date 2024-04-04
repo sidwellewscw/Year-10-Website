@@ -36,5 +36,8 @@ img{
     border-width: 3px;
     border-color:black;
     border: solid
-    
+}
+
+.hobbit-img{
+    width: 230px;
 }
