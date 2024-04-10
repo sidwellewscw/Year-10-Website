@@ -16,10 +16,11 @@ h2{
 h3{
     color: #aa6805;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:50x;
 }
 
 h4{
-    color: #36a2aa;
+    color: #247e85;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -35,7 +36,11 @@ img{
     border-radius: 20px;
     border-width: 3px;
     border-color:black;
-    border: solid
+    border: solid;
+}
+
+body{
+    background-color: rgb(235, 233, 233);
 }
 
 .hobbit-img{
