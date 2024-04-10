@@ -5,7 +5,7 @@ p{
 
 h1{
     color: #aa6805;
-    font-family:'Courier New', Courier, monospace;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 h2{
@@ -46,4 +46,13 @@ body{
 
 .hobbit-img{
     width: 230px;
+}
+
+div {
+    width: 100%;
+}
+
+.split-box {
+    display: flex;
+    align-items: center;
 }
