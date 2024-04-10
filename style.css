@@ -5,7 +5,7 @@ p{
 
 h1{
     color: #aa6805;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Courier New', Courier, monospace;
 }
 
 h2{
@@ -16,12 +16,13 @@ h2{
 h3{
     color: #aa6805;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size:50x;
+    font-size:30px;
 }
 
 h4{
     color: #247e85;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:22px;
 }
 
 a{
