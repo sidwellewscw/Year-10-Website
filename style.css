@@ -37,7 +37,7 @@ img{
     border-radius: 20px;
     border-width: 3px;
     border-color: #36a2aa;
-    border: solid;
+    border-style: solid;
 }
 
 body{
@@ -49,7 +49,7 @@ body{
 }
 
 .aslan-img{
-    width: 220px;
+    width: 210px;
 }
 
 div {
