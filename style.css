@@ -44,16 +44,16 @@ body{
     background-color: rgb(0, 0, 0);
 }
 
+div {
+    width: 100%;
+}
+
 .hobbit-img{
     width: 230px;
 }
 
 .aslan-img{
     width: 210px;
-}
-
-div {
-    width: 100%;
 }
 
 .split-box {
